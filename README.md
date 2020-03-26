@@ -1,0 +1,2 @@
+# Social-Networks-friends-recommendations
+The goal of this assignment is to learn and practice the concepts covered thus far. In particular you will get more practice with (2D) lists and functions. For one of the functions you will also need to learn how to prevent syntax errors i.e. crashes by learning about try/except concept for handling exceptions. Given the goals of this assignment, you cannot user: dictionaries, sets, deque, bisect module. You can though, and in fact should, use .sort or sorted functions.
